@@ -35,7 +35,6 @@ The purpose of this repository is to serve as a learning and reference resource 
 - Prototyping
 - Brainstorming Workshops
 
----
 
 Requirement Analysis is not just about collecting information — it's about asking the right questions, validating needs, and ensuring alignment across technical and non-technical stakeholders.
 
@@ -55,9 +54,47 @@ Identifying and clarifying requirements early in the project lifecycle helps avo
 
 ### 3.  Provides a Solid Foundation for Design & Testing
 
-Requirements act as a blueprint for both software design and quality assurance. Developers use them to create architecture and UI/UX flows, while testers use them to define test cases and validation criteria. Without clear requirements, both design and testing phases become unreliable.
+Requirements act as a blueprint for both software design and quality assurance. Developers use them to create architecture and UI/UX flows, while testers use them to define test cases and validation criteria. Without clear requirements, both the design and testing phases become unreliable.
 
----
 
 In short, Requirement Analysis is not just a step—it's the **backbone** of software development that bridges stakeholder expectations and technical execution.
+
+
+## 📋 Key Activities in Requirement Analysis
+
+Requirement Analysis is a multi-step process that involves several structured activities to ensure the software product meets stakeholder expectations. Below are the five key activities involved:
+
+- ** Requirement Gathering**
+  - Collect raw information about the user's needs and expectations.
+  - Involves interaction with stakeholders through interviews, surveys, and observation.
+  - Focuses on identifying business problems and opportunities.
+
+- ** Requirement Elicitation**
+  - Refines and expands the gathered data to uncover the underlying requirements.
+  - Uses techniques like brainstorming, use case creation, prototyping, and workshops.
+  - Aims to clarify ambiguous or incomplete information.
+
+- ** Requirement Documentation**
+  - Converts elicited requirements into formal documents such as:
+    - Software Requirements Specification (SRS)
+    - Use Case Descriptions
+    - User Stories
+  - Ensures requirements are recorded clearly and consistently for all stakeholders.
+
+- ** Requirement Analysis and Modeling**
+  - Involves examining requirements for feasibility, consistency, and completeness.
+  - Uses models like:
+    - Use Case Diagrams
+    - Data Flow Diagrams (DFD)
+    - Entity-Relationship Diagrams (ERD)
+  - Helps identify gaps, redundancies, and conflicts.
+
+- ** Requirement Validation**
+  - Reviews and verifies requirements with stakeholders.
+  - Ensures that documented requirements accurately reflect user needs.
+  - Prevents misunderstandings before the development process begins.
+
+
+Each of these activities plays a critical role in delivering a solution that is functional, usable, and aligned with stakeholder goals.
+
 
