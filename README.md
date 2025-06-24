@@ -158,7 +158,7 @@ A **Use Case Diagram** is a visual tool in Requirement Analysis used to represen
 
 The following diagram shows major actors and use cases for a hotel/room booking system:
 
-![Use Case Diagrams image](https://github.com/user-attachments/assets/ac0660a6-3f74-4f52-9d23-4605056b7215)
+![image](https://github.com/user-attachments/assets/ac0660a6-3f74-4f52-9d23-4605056b7215)
 
 
 
