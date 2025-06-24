@@ -139,4 +139,26 @@ These describe **constraints or qualities** the system must meet to ensure a smo
 Both types of requirements are essential. Functional requirements ensure the **right features are built**, while non-functional requirements ensure the **system behaves reliably and efficiently** under real-world conditions.
 
 
+## 🧾 Use Case Diagrams
+
+### What Are Use Case Diagrams?
+
+A **Use Case Diagram** is a visual tool in Requirement Analysis used to represent the interactions between **users (actors)** and the **system (use cases)**. It helps stakeholders quickly understand:
+- What the system does (functional overview)
+- Who interacts with it
+- How each user’s goals are supported
+
+### 🌐 Benefits of Use Case Diagrams:
+- Simplifies communication between technical and non-technical team members
+- Provides a high-level system overview
+- Helps identify functional requirements clearly
+- Aids in planning user stories and testing scenarios
+
+### 🧾 Use Case Diagrams
+
+The following diagram shows major actors and use cases for a hotel/room booking system:
+
+![Use Case Diagrams image](https://github.com/user-attachments/assets/ac0660a6-3f74-4f52-9d23-4605056b7215)
+
+
 
