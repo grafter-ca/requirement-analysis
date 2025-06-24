@@ -98,3 +98,45 @@ Requirement Analysis is a multi-step process that involves several structured ac
 Each of these activities plays a critical role in delivering a solution that is functional, usable, and aligned with stakeholder goals.
 
 
+## 📂 Types of Requirements
+
+Software requirements are generally classified into two main categories: **Functional Requirements** and **Non-functional Requirements**. Both are crucial to delivering a complete and usable system.
+
+### ✅ Functional Requirements
+
+Functional requirements define **what** the system should do. They describe the core features and interactions users will have with the application.
+
+#### Definition:
+These are specifications of **behaviors, tasks, and features** the system must support.
+
+#### Examples for Hotel Booking App:
+- Users can **search for available rooms** by location, date, and preferences.
+- Hosts can **create, edit, and delete** room listings.
+- Guests can **book rooms** and receive confirmation via email.
+- Users must **log in or register** before making a booking.
+- The system should allow **payment processing** via credit card or digital wallet.
+- Admin can **manage bookings**, suspend accounts, or generate reports.
+
+---
+
+### ⚙️ Non-functional Requirements
+
+Non-functional requirements define **how** the system performs. They focus on **performance, usability, security**, and other quality attributes.
+
+#### Definition:
+These describe **constraints or qualities** the system must meet to ensure a smooth user experience and operational efficiency.
+
+#### Examples for Hotel Booking App:
+- The website should **load within 2 seconds** on standard internet connections.
+- The system must be able to **handle up to 10,000 concurrent users** during peak hours.
+- User passwords must be **stored using secure encryption**, and **multi-factor authentication** should be enabled.
+- The app should have **99.9% uptime availability**.
+- The system should **support multiple languages** for international users.
+- Bookings should be processed in **real-time** with no delays in confirmation.
+
+
+
+Both types of requirements are essential. Functional requirements ensure the **right features are built**, while non-functional requirements ensure the **system behaves reliably and efficiently** under real-world conditions.
+
+
+
