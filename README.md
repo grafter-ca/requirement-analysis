@@ -162,3 +162,38 @@ The following diagram shows major actors and use cases for a hotel/room booking 
 
 
 
+## ✅ Acceptance Criteria
+
+### What is Acceptance Criteria?
+
+**Acceptance Criteria** are a set of predefined requirements or conditions that a software product must meet to be accepted by the client, end user, or stakeholders. These criteria ensure that the development team delivers functionality that aligns with expectations, and they form the basis for **testing and validation**.
+
+### Why Acceptance Criteria Matter in Requirement Analysis
+
+- Ensures a **clear understanding** between stakeholders and developers on what success looks like.
+- Helps **prevent ambiguity** and scope creep by setting clear boundaries.
+- Guides **test case development** and validation during Quality Assurance (QA).
+- Acts as a **contract** for when a feature is "done."
+
+---
+
+### Example: Acceptance Criteria for “Checkout” Feature in Booking Management System
+
+**Feature**: User Checkout Process
+
+**Acceptance Criteria:**
+1. The user must be logged in to proceed with checkout.
+2. The user can review selected property details (name, price, check-in/check-out date).
+3. The user must enter valid payment information or use a saved payment method.
+4. The system should confirm the availability of the selected booking slot before processing.
+5. Payment must be processed securely via the integrated payment gateway.
+6. On successful payment, the system should:
+   - Display a confirmation message.
+   - Send a confirmation email with booking details.
+7. If payment fails, the user is notified and prompted to try again or choose a different method.
+
+These criteria help the team know exactly when the Checkout feature is considered complete and ready for delivery.
+
+
+
+
